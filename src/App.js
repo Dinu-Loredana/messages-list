@@ -4,7 +4,7 @@ import EditingMessageModal from "./components/EditingMessageModal";
 import MessagesList from "./components/MessagesList";
 import MessageModal from "./components/MessageModal";
 import NoMessage from "./components/NoMessage";
-import {Heading, sortMessagesByDate} from "./components/UI/helpers";
+import {Heading, sortMessagesByDate} from "./UI/helpers";
 
 
 function App() {
